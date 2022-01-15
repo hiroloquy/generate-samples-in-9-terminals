@@ -14,6 +14,13 @@ This gnuplot script generates samples in 9 terminals.　
 In `qt` terminal, the sample will be displayed on the 'qt' window.
 In other terminals, this script will automatically output sample images and save them in a folder (terminal / palette).
 
+## Documents
+The details of the script and comparison of the outputted samples are documented in my blog.
+My blog is written in Japanese, but you can translate it in your language by GTranslate.  
+- [Japanese (original)](https://hiroloquy.com/2020/09/03/gnuplot_compare_9_terminals/)
+- [English (auto translated)](https://hiroloquy-com.translate.goog/2020/09/03/gnuplot_compare_9_terminals/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja&_x_tr_pto=wapp)
+
+
 ## Images (Excerpt)
 ### Test terminal
 |![test_term_png.png](terminal/test_term_png.png)|![test_term_pngcairo.png](terminal/test_term_pngcairo.png)|
@@ -60,12 +67,6 @@ If you want to output the test sample in **`qt`** terminal , click the icon at t
 ## Author
 * Hiro Shigeyoshi
 * Twitter: [@hiroloquy](https://twitter.com/hiroloquy)
-
-### Blog
-My blog is written in Japanese. However, you can translate it in your language by GTranslate.  
-- [Japanese (original)](https://hiroloquy.com/2020/09/03/gnuplot_compare_9_terminals/)
-- [English (auto translated)](https://hiroloquy-com.translate.goog/2020/09/03/gnuplot_compare_9_terminals/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja&_x_tr_pto=wapp)
-
 
 ## License
 "inverted-pendulum-simulation" is under [MIT license](https://github.com/hiroloquy/inverted-pendulum-simulation/blob/master/LICENSE).
