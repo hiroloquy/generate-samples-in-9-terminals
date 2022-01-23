@@ -69,5 +69,5 @@ If you want to output the test sample in **`qt`** terminal , click the icon at t
 * Twitter: [@hiroloquy](https://twitter.com/hiroloquy)
 
 ## License
-"inverted-pendulum-simulation" is under [MIT license](https://github.com/hiroloquy/inverted-pendulum-simulation/blob/master/LICENSE).
+"generate-samples-in-9-terminals" is under [MIT license](https://github.com/hiroloquy/inverted-pendulum-simulation/blob/master/LICENSE).
  
