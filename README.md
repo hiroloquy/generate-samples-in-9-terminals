@@ -1,6 +1,5 @@
 # Generate Samples in 9 Terminals
 This gnuplot script generates samples in 9 terminals.　
-
 - qt
 - png
 - pngcairo
@@ -12,7 +11,7 @@ This gnuplot script generates samples in 9 terminals.　
 - pdfcairo
 
 In `qt` terminal, the sample will be displayed on the 'qt' window.
-In other terminals, this script will automatically output sample images and save them in a folder (terminal / palette).
+In the other terminals, this script will automatically output sample images and save them in a folder (terminal / palette).
 
 ## Documents
 The details of the script and comparison of the outputted samples are documented in my blog.
@@ -23,26 +22,16 @@ My blog is written in Japanese, but you can translate it in your language by GTr
 
 ## Images (Excerpt)
 ### Test terminal
-|![test_term_png.png](terminal/test_term_png.png)|![test_term_pngcairo.png](terminal/test_term_pngcairo.png)|
-|:---:|:---:|
-|**png**|**pngcairo**|
-
-|![test_term_jpeg.jpeg](terminal/test_term_jpeg.jpeg)|![test_term_svg.svg](terminal/test_term_svg.svg)|
-|:---:|:---:|
-|**jpeg**|**svg**|
+|![test_term_png.png](terminal/test_term_png.png)|![test_term_pngcairo.png](terminal/test_term_pngcairo.png)|![test_term_jpeg.jpeg](terminal/test_term_jpeg.jpeg)|![test_term_svg.svg](terminal/test_term_svg.svg)|
+|:---:|:---:|:---:|:---:|
+|**png**|**pngcairo**|**jpeg**|**svg**|
 
 ### Test palette
-|![test_pale_png.png](palette/test_pale_png.png)|![test_pale_pngcairo.png](palette/test_pale_pngcairo.png)|
-|:---:|:---:|
-|**png**|**pngcairo**|　
-
-|![test_pale_jpeg.jpeg](palette/test_pale_jpeg.jpeg)|![test_pale_svg.svg](palette/test_pale_svg.svg)|
-|:---:|:---:|
-|**jpeg**|**svg**|
-
+|![test_pale_png.png](palette/test_pale_png.png)|![test_pale_pngcairo.png](palette/test_pale_pngcairo.png)|![test_pale_jpeg.jpeg](palette/test_pale_jpeg.jpeg)|![test_pale_svg.svg](palette/test_pale_svg.svg)|
+|:---:|:---:|:---:|:---:|
+|**png**|**pngcairo**|**jpeg**|**svg**|
 
 <!-- ## Features -->
-
 <!-- # Operating environment -->
 ## Requirement
 - macOS Catalina 10.15.6, Monterey 12.1 / Macbook Air (M1, 2020)
@@ -60,7 +49,7 @@ load 'test_in_various_terminal_type.plt'
 
 ## Note
 If you want to output the test sample in **`qt`** terminal , click the icon at the top left of the window and select the file format.
-|<img src="doc/test_term_in_qt_window.png" alt="test_term_in_qt_window.png" width="75%">|
+|<img src="doc/test_term_in_qt_window.png" alt="test_term_in_qt_window.png" width="450">|
 |:---:|
 |**qt window (in Japanese)**|
 
@@ -69,5 +58,5 @@ If you want to output the test sample in **`qt`** terminal , click the icon at t
 * Twitter: [@hiroloquy](https://twitter.com/hiroloquy)
 
 ## License
-"generate-samples-in-9-terminals" is under [MIT license](https://github.com/hiroloquy/inverted-pendulum-simulation/blob/master/LICENSE).
+"generate-samples-in-9-terminals" is under [MIT license](https://github.com/hiroloquy/generate-samples-in-9-terminals/blob/main/LICENSE).
  
